@@ -1,3 +1,5 @@
+
+import React from 'react'
 import './HeroSection.css'
 import { MdWavingHand } from 'react-icons/md'
 import profilePicture from '../../assets/images.jpg'
@@ -22,6 +24,7 @@ const HeroSection = () => {
                 <button className='hero-section-bottom-buttons'>Contact Me</button>
                 <button className='hero-section-bottom-buttons'>My Resume</button>
             </div>
+        </div>
         </div>
     )
 }

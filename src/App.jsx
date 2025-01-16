@@ -7,6 +7,7 @@ const App = () => {
   return (
     <div>
       <Header />
+      <h1>hi</h1>
       <div className='main-component-wrapper'>
         <HeroSection />
       </div>
