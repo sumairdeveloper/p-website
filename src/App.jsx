@@ -1,16 +1,15 @@
-import React from 'react'
 import Header from './components/header/Header'
-import HeroSection from './components/hero-section/Herosection'
+import HeroSection from './components/heroSection/HeroSection'
 import './App.css'
+import AboutMe from './components/aboutMe/AboutMe'
 
 const App = () => {
   return (
     <div>
       <Header />
-      <h1>hi</h1>
       <div className='main-component-wrapper'>
         <HeroSection />
+        <AboutMe />
       </div>
     </div>
-  )
-}
+  )}

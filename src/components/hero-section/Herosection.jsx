@@ -2,7 +2,7 @@
 import React from 'react'
 import './HeroSection.css'
 import { MdWavingHand } from 'react-icons/md'
-import profilePicture from '../../assets/images.jpg'
+import profilePicture from '../../assets/Screenshot_2-1-2025_164652_www.instagram.com.jpeg'
 
 const HeroSection = () => {
     return (
@@ -14,7 +14,7 @@ const HeroSection = () => {
                 <div className='hero-section-top-image'>
                     <img src={profilePicture} className='profile-image'/>
                 </div>
-                <span className='hero-section-top-text'>Hi! I'm Tauseeq Haider  <MdWavingHand size={38} color='#E5D0AC' className='waving-hand'/></span>
+                <span className='hero-section-top-text'>Hi! I'm Sumair Ali  <MdWavingHand size={38} color='#E5D0AC' className='waving-hand'/></span>
             </div>
             <div className='hero-section-middle'>
                 <h1 className='hero-section-middle-heading'>frontend web developer based in Karachi.</h1>
