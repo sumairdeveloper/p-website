@@ -1,7 +1,7 @@
 import Header from './components/header/Header'
-import HeroSection from './components/heroSection/HeroSection'
+import HeroSection from './components/hero-section/Herosection'
 import './App.css'
-import AboutMe from './components/aboutMe/AboutMe'
+import AboutMe from './components/aboutme/about-me'
 
 const App = () => {
   return (
@@ -13,3 +13,4 @@ const App = () => {
       </div>
     </div>
   )}
+  export default App
