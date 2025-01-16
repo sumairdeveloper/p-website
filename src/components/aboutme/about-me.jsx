@@ -52,7 +52,7 @@ const AboutMe = () => {
                             )
                         })}
                     </div>
-                    <span>Toos I use</span>
+                    <span>Tools I use</span>
                     <div>
                         {toolsIcons.map((item, index) => item)}
                     </div>

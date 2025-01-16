@@ -7,7 +7,7 @@ import profilePicture from '../../assets/Screenshot_2-1-2025_164652_www.instagra
 const HeroSection = () => {
     return (
         <div>
-            HERO SECTION
+           
         <div className='hero-section'>
             {/* YEH PROFILE PICTURE WALI DIV HAI */}
             <div className='hero-section-top'>
