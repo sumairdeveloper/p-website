@@ -1,6 +1,6 @@
 
 import React from 'react'
-import './HeroSection.css';
+import './Herosection.css';
 import { MdWavingHand } from 'react-icons/md'
 import profilePicture from '../../assets/Screenshot_2-1-2025_164652_www.instagram.com.jpeg'
 
