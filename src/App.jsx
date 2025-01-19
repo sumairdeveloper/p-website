@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from './components/header/Header'
-import HeroSection from './components/hero-section/Hero-section'
+import HeroSection from './components/heroSection/heroSection'
 import './App.css'
 import AboutMe from './components/aboutme/about-me'
 import Services from './components/services/services'
