@@ -1,6 +1,6 @@
 import React from 'react'
 import { CgCodeSlash } from 'react-icons/cg'
-import './shared-component.css'
+import './card.css'
 const Card = (props) => {
     return (
         <div className='card'>

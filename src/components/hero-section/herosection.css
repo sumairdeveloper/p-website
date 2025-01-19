@@ -5,6 +5,7 @@
     flex-direction: column;
     width: 100%;
     gap: 3rem;
+    height: 90vh;
 }
 .hero-section-top {
     display: flex;

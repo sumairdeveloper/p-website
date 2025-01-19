@@ -4,7 +4,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    border-bottom: 1px solid grey;
+    box-shadow: 1px 1px 10px 2px #888888;
+    z-index: 10;
 }
+
 .header-list-items {
     display: flex;
     justify-content: center;
@@ -15,6 +22,7 @@
     border-radius: 7rem;
     padding: 1rem;
 }
+
 .name-dot {
     position: absolute;
     width: 0.6rem;
@@ -24,21 +32,26 @@
     right: -0.8rem;
     bottom: 0.4rem;
 }
+
+
 .header-logo {
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
 }
+
 .header-buttons {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 2rem;
 }
+
 .contact-button {
     background: none;
     padding: 0.7rem 2rem;
     border: 2px solid black;
     border-radius: 4rem;
+
 }
